@@ -1,4 +1,4 @@
-# ECourse - Nền tảng khoá học trực tuyến
+# USNEws - Bài tập  lớn môn xây dựng ứng dụng web
 
 ## Cấu trúc thư mục:
 
