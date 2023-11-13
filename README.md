@@ -1,4 +1,4 @@
-# USNEws - Bài tập  lớn môn xây dựng ứng dụng web
+# USNEWS - Bài tập  lớn môn xây dựng ứng dụng web
 
 ## Cấu trúc thư mục:
 
