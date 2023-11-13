@@ -25,7 +25,7 @@
 
 _Mở Git Bash, truy cập vào 1 thư mục nào đó, có thể là Download, sau đó gõ lệnh dưới_
 
--   `git clone https://github.com/phanhuyduong2003/ECourse.git`
+-   'git clone https://github.com/KiennVuong/USNew_btl_XdudWeb.git'
 
 ### Đẩy code lên GitHub (Khuyến khích nên đẩy lên GitHub sau mỗi buổi code)
 
